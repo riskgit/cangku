@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 10,
+  "data": [
+    {
+      "id": 1,
+      "cname": "北京柯蓝科技有限公司",
+      "ccity": "北京",
+      "cworld": "计算机金融",
+      "pname": "刘海海",
+      "pphone": "15012312312",
+      "iswork": "合作中",
+      "post": "java开发"
+
+    },{
+      "id": 2,
+      "cname": "北京思特奇股份有限公司",
+      "ccity": "北京",
+      "cworld": "通信行业",
+      "pname": "董一凡",
+      "pphone": "15623654568",
+      "iswork": "合作中",
+      "post": "java开发"
+    },{
+      "id": 3,
+      "cname": "南京正济电信有限公司",
+      "ccity": "南京",
+      "cworld": "通信行业",
+      "pname": "董宁",
+      "pphone": "17365438495",
+      "iswork": "合作中",
+      "post": "网络维护"
+    },{
+      "id": 4,
+      "cname": "武汉显光科技有限公司",
+      "ccity": "武汉",
+      "cworld": "软件开发",
+      "pname": "唐楚洁",
+      "pphone": "17165489356",
+      "iswork": "合作中",
+      "post": "java开发"
+    },{
+      "id": 5,
+      "cname": "江苏光远信息有限公司",
+      "ccity": "江苏",
+      "cworld": "软件开发",
+      "pname": "于学义",
+      "pphone": "18865634568",
+      "iswork": "合作中",
+      "post": "java开发"
+    },{
+      "id": 6,
+      "cname": "徐州永耀科技有限公司",
+      "ccity": "徐州",
+      "cworld": "软件开发",
+      "pname": "蒋伟志",
+      "pphone": "18656535465",
+      "iswork": "合作中",
+      "post": "java开发"
+    },{
+      "id": 7,
+      "cname": "南京天泽电子有限公司",
+      "ccity": "南京",
+      "cworld": "软件开发",
+      "pname": "蒋兴德",
+      "pphone": "18865465432",
+      "iswork": "合作中",
+      "post": "java开发"
+    },{
+      "id": 8,
+      "cname": "北京元初科技有限公司",
+      "ccity": "北京",
+      "cworld": "软件开发",
+      "pname": "任元洲",
+      "pphone": "16865465423",
+      "iswork": "合作中",
+      "post": "java开发"
+    },{
+      "id": 9,
+      "cname": "福建昭明电信有限公司",
+      "ccity": "福建",
+      "cworld": "通信行业",
+      "pname": "汤志明",
+      "pphone": "17156535462",
+      "iswork": "合作中",
+      "post": "网络维护"
+    },{
+      "id": 10,
+      "cname": "太原正平电信有限公司",
+      "ccity": "太原",
+      "cworld": "通信行业",
+      "pname": "周鸿光",
+      "pphone": "18645635462",
+      "iswork": "合作中",
+      "post": "网络维护"
+    }
+
+  ]
+}

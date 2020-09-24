@@ -1,0 +1,59 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 10,
+  "data": [
+    {
+      "id": 1,
+      "dname": "计算机科学与技术",
+      "createTime": "2005-10-1",
+      "remark": "无"
+    },{
+      "id": 2,
+      "dname": "网络工程",
+      "createTime": "2013-08-1",
+      "remark": "无"
+    },{
+      "id": 3,
+      "dname": "物联网技术",
+      "createTime": "2014-10-1",
+      "remark": "无"
+    },{
+      "id": 4,
+      "dname": "电子信息科学与技术",
+      "createTime": "2005-10-1",
+      "remark": "无"
+    },{
+      "id": 5,
+      "dname": "电子商务",
+      "createTime": "2013-10-1",
+      "remark": "无"
+    },{
+      "id": 6,
+      "dname": "信息安全",
+      "createTime": "2010-10-1",
+      "remark": "无"
+    },{
+      "id": 7,
+      "dname": "数字媒体技术",
+      "createTime": "2014-10-1",
+      "remark": "无"
+    },{
+      "id": 8,
+      "dname": "通信工程",
+      "createTime": "2013-10-1",
+      "remark": "无"
+    },{
+      "id": 9,
+      "dname": "人工智能",
+      "createTime": "2015-10-1",
+      "remark": "无"
+    },{
+      "id": 10,
+      "dname": "软件工程",
+      "createTime": "2011-10-1",
+      "remark": "无"
+    }
+
+  ]
+}
